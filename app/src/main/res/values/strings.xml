@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">App</string>
+    <string name="app_name">Bloco de Notas</string>
+    <string name="title_notes">Minhas Notas</string>
+    <string name="hint_note">Digite uma nova nota&#8230;</string>
+    <string name="btn_save">Salvar</string>
+    <string name="saved_notes_header">Notas Salvas (clique longo para excluir):</string>
 </resources>
