@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.aplicativo.app"
+    namespace = "com.example.appdesergio"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.aplicativo.app"
+        applicationId = "com.example.appdesergio"
         minSdk = 31
         targetSdk = 36
         versionCode = 1
